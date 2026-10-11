@@ -1,6 +1,6 @@
 # HAVE App
 
-![Logo HAVE](https://github.com/auliyahidayatullah/Have/blob/debug/app/src/main/res/drawable/logo_have.png)
+![Logo HAVE](https://github.com/auliyahidayatullah/HAVE_Apps/blob/main/assets/logo_have.png)
 
 HAVE is health management application designed to help users maintain a healthy lifestyle.
 
@@ -14,25 +14,25 @@ Have is designed for the productive age of 15-50 years old include men and women
 - **Health Summaries**: Received daily health summaries based on collected data.
 
 ## Flowchart
-![Flowchart](https://github.com/auliyahidayatullah/Have/blob/master/HAVE%20Screenshots%20Apps/HAVE%20FLOWCHART.png)
+![Flowchart](https://github.com/auliyahidayatullah/HAVE_Apps/blob/main/assets/HAVE%20FLOWCHART.png)
 
 ## Wireframe
-![Wireframe](https://github.com/auliyahidayatullah/Have/blob/master/HAVE%20Screenshots%20Apps/HAVE%20Wireframes.png)
+![Wireframe](https://github.com/auliyahidayatullah/HAVE_Apps/blob/main/assets/HAVE%20Wireframes.png)
 
 ## Screenshots
 
 - Home Menu
   
-  <img width="360" height="800" src="https://github.com/auliyahidayatullah/Have/assets/137795305/7ab7fe80-414a-4ecc-b906-df00bafcf577">
+  <img width="360" height="800" src="https://github.com/auliyahidayatullah/HAVE_Apps/blob/main/assets/WhatsApp%20Image%202024-06-20%20at%2014.23.02_cfc0c88e.jpg">
 - Sleep Menu
   
-  <img width="360" height="800" src="https://github.com/auliyahidayatullah/Have/assets/137795305/97051d5d-b833-404c-b6fd-3474ad019b62">
+  <img width="360" height="800" src="https://github.com/auliyahidayatullah/HAVE_Apps/blob/main/assets/WhatsApp%20Image%202024-06-20%20at%2014.23.02_18c6ae2e.jpg">
 - Activity Menu
   
-  <img width="360" height="800" src="https://github.com/auliyahidayatullah/Have/assets/137795305/77a53ff4-f682-40a4-9659-50278724aee9">
+  <img width="360" height="800" src="https://github.com/auliyahidayatullah/HAVE_Apps/blob/main/assets/WhatsApp%20Image%202024-06-20%20at%2014.23.02_279e881a.jpg">
 - Calorie Menu
   
-  <img width="360" height="800" src="https://github.com/auliyahidayatullah/Have/assets/137795305/394326be-ac04-4c27-b29d-56ceba280eeb">
+  <img width="360" height="800" src="https://github.com/auliyahidayatullah/HAVE_Apps/blob/main/assets/WhatsApp%20Image%202024-06-20%20at%2014.23.03_ea91b62c.jpg">
 
 
 ## Dependencies
